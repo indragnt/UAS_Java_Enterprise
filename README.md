@@ -1,4 +1,4 @@
-# UTS-JavaEnterprise
+# UAS-JavaEnterprise
 
 ### How to run project :
 
